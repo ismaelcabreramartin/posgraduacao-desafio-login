@@ -1,0 +1,25 @@
+{
+  "name": "posgraduacao-desafio-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelcabreramartin/posgraduacao-desafio-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ismaelcabreramartin/posgraduacao-desafio-login/issues"
+  },
+  "homepage": "https://github.com/ismaelcabreramartin/posgraduacao-desafio-login#readme",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.4"
+  }
+}
