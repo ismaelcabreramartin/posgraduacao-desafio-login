@@ -1,9 +1,15 @@
+/**
+ * @file Testes unitários da função validarLogin
+ * @author Ismael
+ * @date 2026-04-25
+ */
+
 import {validarLogin} from '../src/gestaoLogin.js';
 import assert from 'node:assert';
 
 describe('Testando Funções de Gestão de Login', function() {
     it('Validar que entro um login válido', function() {
-        // Arrange (o que eu preciso para testar a função?)
+        // Arrange
         const email = 'joao.silva@email.com';
         const password = 'Abc@2024';
 
