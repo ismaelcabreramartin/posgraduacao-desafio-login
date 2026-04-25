@@ -1,3 +1,9 @@
+/**
+ * @file Testes unitários da função validarLogin
+ * @author Ismael
+ * @date 2026-04-25
+ */
+
 import {validarLogin} from '../src/gestaoLogin.js';
 import assert from 'node:assert';
 

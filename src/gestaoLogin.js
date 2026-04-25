@@ -1,3 +1,9 @@
+/**
+ * @file Testes unitários da função validarLogin
+ * @author Ismael
+ * @date 2026-04-25
+ */
+
 const dadosLogin = [
     {
         "id": 1,
